@@ -10,7 +10,8 @@ namespace LogialProblem
             // PerfectNumber.checkperfectno();
             //ReverseNumber.checkreverseno();
             // PrimeNumber.checkprimeno();
-            Coupon.checkcoupon();
+            //Coupon.checkcoupon();
+            StopWatch.Check();
           
         }
     }
